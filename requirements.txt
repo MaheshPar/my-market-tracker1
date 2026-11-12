@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+numpy
+scipy
+plotly
+requests
+streamlit-autorefresh
+xlsxwriter
+pytest
